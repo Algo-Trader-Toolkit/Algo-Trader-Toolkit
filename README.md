@@ -273,7 +273,7 @@ This is a **backtesting engine**, not a collection of profitable trading strateg
 
 | Tier | Price | Best For |
 |------|-------|----------|
-| **Standard** | $49 | Testing ideas fast and learning realistic backtesting |
+| **Standard** | $49 | Fast strategy testing with 12+ indicators & Fibonacci levels |
 | **Pro** | $149 | Automating technical & pattern-based trading workflows |
 | **Ultimate** | $299 | Quant-level research, ML validation, and multi-factor confirmation |
 | **Enterprise** | $749 | Fully unattended live trading with real-time safety gates |
@@ -288,15 +288,17 @@ This is a **backtesting engine**, not a collection of profitable trading strateg
 
 ```
 Standard  →  Pro  →  Ultimate  →  Enterprise
-    |          |         |            |
-Backtesting  Patterns   ML/FVG    24/7 Live Trading
+    |           |         |            |
+Indicators   Patterns   ML/FVG    24/7 Live
++ Fibonacci  + Charts   + Elliott  + Telegram
 ```
 
-| Upgrade Path | What You Get |
-|--------------|--------------|
-| **Standard → Pro** | + Pattern recognition + chart patterns + alerts |
-| **Pro → Ultimate** | + ML pipeline + Elliott Wave + FVG + intelligent exits |
-| **Ultimate → Enterprise** | + **LIVE TRADING** + safety monitors + Telegram |
+| Tier | What's Included |
+|------|-----------------|
+| **Standard** | 12+ indicators, Fibonacci levels, realistic backtesting |
+| **Pro** | *Everything in Standard* + Pattern recognition + chart patterns + candlestick analysis |
+| **Ultimate** | *Everything in Pro* + ML pipeline + Elliott Wave + FVG + intelligent exits |
+| **Enterprise** | *Everything in Ultimate* + **LIVE TRADING** + safety monitors + Telegram alerts |
 
 🌟 **Save when upgrading** — upgrading costs less than buying separate tiers.
 
