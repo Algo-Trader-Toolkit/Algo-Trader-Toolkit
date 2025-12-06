@@ -70,13 +70,13 @@ Our dynamic stop-loss system uses **Fibonacci retracement levels** that trail pr
 *Generated from Ultimate tier using BTC/USDT, 1h timeframe, 2023.*
 
 #### Equity Curve & Drawdown
-![Equity Curve](./screenshots/backtest_equity_curve.png)
+<img src="./screenshots/backtest_equity_curve.png" width="600">
 
 #### Monthly Returns Heatmap
-![Monthly Returns](./screenshots/backtest_monthly_returns.png)
+<img src="./screenshots/backtest_monthly_returns.png" width="600">
 
 #### Cumulative Profit/Loss by Trade
-![Cumulative PnL](./screenshots/backtest_trade_analysis_cumulative_pnl.png)
+<img src="./screenshots/backtest_trade_analysis_cumulative_pnl.png" width="600">
 
 ---
 
@@ -147,7 +147,7 @@ Our dynamic stop-loss system uses **Fibonacci retracement levels** that trail pr
 #### 🖥️ Live Trading Dashboard
 *Real-time terminal monitoring with signals, market data, positions & performance*
 
-![Live Dashboard](./screenshots/live_dashboard.jpg)
+<img src="./screenshots/live_dashboard.jpg" width="550">
 
 #### 📱 Telegram Notifications
 *Get instant alerts on your phone: signals, trade entries, exits with P&L*
