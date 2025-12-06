@@ -18,6 +18,8 @@ A professional-grade algorithmic trading backtesting engine built with Python. T
 
 **Stop guessing. Start data-driven trading.**
 
+*Save months of engineering time — tested, validated, production-ready.*
+
 ## 🛒 Get the Toolkit
 
 👉 **[Buy on Gumroad](https://YOUR_GUMROAD_LINK)** | Standard $49 | Pro $149 | Ultimate $299 | Enterprise $749
@@ -58,6 +60,8 @@ A professional-grade algorithmic trading backtesting engine built with Python. T
 - **Execution:** Spot trades only (no leverage or shorting)
 - **Fees:** 0.10% realistic exchange fees included
 - **Risk Model:** Fixed position sizing with controlled exposure
+
+*Backtests shown are for demonstration of engine realism, not predictive forecasts.*
 
 ---
 
@@ -280,7 +284,9 @@ This is a **backtesting engine**, not a collection of profitable trading strateg
 
 ✅ **All toolkits include:** Lifetime access, commercial use rights, and free version updates.
 
-💡 *Building this from scratch typically takes 120–210 development hours. The toolkit costs less than 0.5% of that engineering effort.*
+� **One-time purchase — no subscriptions.**
+
+�� *Building this from scratch typically takes 120–210 development hours. The toolkit costs less than 0.5% of that engineering effort.*
 
 ---
 
@@ -405,6 +411,10 @@ This software is sold under a **single-user commercial license**. See `LICENSE.t
 
 **This is a commercial product.** Source code is not included in this public repository.
 Full source code is delivered upon purchase via Gumroad.
+
+---
+
+**Refund Policy:** Refunds are evaluated case-by-case for technical access issues, not performance guarantees.
 
 ---
 
