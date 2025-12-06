@@ -159,7 +159,7 @@ Our dynamic stop-loss system uses **Fibonacci retracement levels** that trail pr
 #### 🖥️ Live Trading Dashboard
 *Real-time terminal monitoring with signals, market data, positions & performance*
 
-<img src="./screenshots/live_dashboard.jpg" width="550">
+![Live Dashboard](./screenshots/live_dashboard.jpg)
 
 #### 📱 Telegram Notifications
 *Get instant alerts on your phone: signals, trade entries, exits with P&L*
