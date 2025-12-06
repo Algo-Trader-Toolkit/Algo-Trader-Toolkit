@@ -1,5 +1,6 @@
 # Algo-Trader's Toolkit
 
+[![Python](https://img.shields.io/badge/Python-3.9+-blue)]()
 [![Backtesting](https://img.shields.io/badge/Backtesting-Realistic-blue)]()
 [![Indicators](https://img.shields.io/badge/Indicators-12%2B-green)]()
 [![Fibonacci](https://img.shields.io/badge/Fibonacci-Levels-green)]()
@@ -9,12 +10,32 @@
 [![FVG](https://img.shields.io/badge/FVG-Analysis-orange)]()
 [![ML](https://img.shields.io/badge/Quant-ML-purple)]()
 [![Live Trading](https://img.shields.io/badge/Live-Trading-red)]()
+[![License](https://img.shields.io/badge/License-Commercial-orange)]()
+
+![Hero - Equity Curve](./screenshots/backtest_equity_curve.png)
 
 A professional-grade algorithmic trading backtesting engine built with Python. Test your strategies with realistic market simulation, quant-grade metrics, and institutional-level analysis.
 
 **Stop guessing. Start data-driven trading.**
 
-👉 **[Get the Toolkit on Gumroad](https://YOUR_GUMROAD_LINK)** | Standard $49 | Pro $149 | Ultimate $299 | Enterprise $749
+## 🛒 Get the Toolkit
+
+👉 **[Buy on Gumroad](https://YOUR_GUMROAD_LINK)** | Standard $49 | Pro $149 | Ultimate $299 | Enterprise $749
+
+---
+
+## 👤 Who Is This For?
+
+| Audience | Fit |
+|----------|-----|
+| Quant researchers | ✅ |
+| Strategy developers | ✅ |
+| Crypto spot traders | ✅ |
+| Live automation users | ✅ |
+| Data-driven traders | ✅ |
+| High-leverage gamblers | ❌ |
+| Get-rich-quick seekers | ❌ |
+| Signal copiers | ❌ |
 
 ---
 
@@ -271,6 +292,40 @@ This is a **backtesting engine**, not a collection of profitable trading strateg
 
 ---
 
+## 🧠 Why 99% of Trading Bots Fail
+
+Most "bots" sold on Telegram and Gumroad fail because they lack:
+
+| Missing Component | Our Solution |
+|-------------------|--------------|
+| No risk gates | ✅ 11 safety protection layers |
+| No realistic simulation | ✅ Fees, slippage, execution delays modeled |
+| No execution engine | ✅ Production-ready order executor |
+| No slippage modeling | ✅ Realistic market impact simulation |
+| No ML confirmation | ✅ 4 ML models (XGBoost, RF, LightGBM, MLP) |
+| No structural analysis | ✅ Elliott Wave + FVG detection |
+| No dynamic stop-loss | ✅ Fibonacci trailing stops |
+| No cloud deployment | ✅ Full SSH deployment guides |
+| No safety shutdowns | ✅ Emergency shutdown + graceful exit |
+| No position management | ✅ Dynamic sizing with risk limits |
+
+**This toolkit exists to solve those engineering gaps.**
+
+---
+
+## 💼 Real Use Cases
+
+> *"I used the Ultimate tier to test 120+ strategy variations in two weeks without writing execution code from scratch."*
+> — Crypto quant researcher
+
+> *"Deployed Enterprise tier on DigitalOcean with Telegram alerts. Now I have fully unattended signal monitoring running 24/7."*
+> — System trader
+
+> *"The pattern recognition saved me months of development. Edwards & Magee formulas are implemented correctly with proper target calculations."*
+> — Strategy developer
+
+---
+
 ## ❓ FAQ
 
 **Q: Is this a guaranteed-profit trading bot?**
@@ -320,8 +375,19 @@ This software is sold under a **single-user commercial license**. See `LICENSE.t
 - ❌ Resale, redistribution, or sharing is **strictly prohibited**
 - ❌ Unauthorized distribution = DMCA takedown + legal action
 
-*We embed tracking in licensed copies. Violations are traceable.*
+⚠️ **All licensed distributions contain unique watermark signatures. Unauthorized resale or sharing can be traced and prosecuted.**
+
+---
+
+## 📧 Contact & Support
+
+**Email:** algo.toolkitt@gmail.com
+
+**This is a commercial product.** Source code is not included in this public repository.
+Full source code is delivered upon purchase via Gumroad.
 
 ---
 
 *Built with ❤️ for serious traders who demand quant-grade tools.*
+
+👉 **[Get the Toolkit on Gumroad](https://YOUR_GUMROAD_LINK)**
