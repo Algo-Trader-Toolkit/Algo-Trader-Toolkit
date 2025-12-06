@@ -12,13 +12,7 @@
 [![Live Trading](https://img.shields.io/badge/Live-Trading-red)]()
 [![License](https://img.shields.io/badge/License-Commercial-orange)]()
 
-![Hero - Equity Curve](./screenshots/backtest_equity_curve.png)
-
-A professional-grade algorithmic trading backtesting engine built with Python. Test your strategies with realistic market simulation, quant-grade metrics, and institutional-level analysis.
-
-**Stop guessing. Start data-driven trading.**
-
-*Save months of engineering time — tested, validated, production-ready.*
+![Algo-Trader Toolkit](./screenshots/hero_banner.png)
 
 ## 🛒 Get the Toolkit
 
