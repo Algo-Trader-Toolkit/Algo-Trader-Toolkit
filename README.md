@@ -16,7 +16,12 @@
 
 ## 🛒 Get the Toolkit
 
-👉 **[Buy on Gumroad](https://YOUR_GUMROAD_LINK)** | Standard $49 | Pro $149 | Ultimate $299 | Enterprise $749
+| Tier | Price | Get It |
+|------|-------|--------|
+| **Standard** | $49 | [Buy Standard](https://algotoolkitt.gumroad.com/l/Standard) |
+| **Pro** | $149 | [Buy Pro](https://algotoolkitt.gumroad.com/l/Pro) |
+| **Ultimate** | $299 | [Buy Ultimate](https://algotoolkitt.gumroad.com/l/Ultimate) |
+| **Enterprise** | $749 | [Buy Enterprise](https://algotoolkitt.gumroad.com/l/Enterprise) |
 
 ---
 
@@ -307,7 +312,7 @@ Indicators   Patterns   ML/FVG    24/7 Live
 
 *Contact for bundle deals and custom integrations:* **algo.toolkitt@gmail.com**
 
-👉 **[Get the Toolkit on Gumroad](https://YOUR_GUMROAD_LINK)**
+👉 **[Get the Toolkit on Gumroad](https://algotoolkitt.gumroad.com/)**
 
 ---
 
@@ -413,4 +418,4 @@ Full source code is delivered upon purchase via Gumroad.
 
 *Built with ❤️ for serious traders who demand quant-grade tools.*
 
-👉 **[Get the Toolkit on Gumroad](https://YOUR_GUMROAD_LINK)**
+👉 **[Get the Toolkit on Gumroad](https://algotoolkitt.gumroad.com/)**

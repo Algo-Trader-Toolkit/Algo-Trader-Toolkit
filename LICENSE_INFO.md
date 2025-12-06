@@ -49,7 +49,7 @@ All copies are watermarked with buyer information. Unauthorized distribution wil
 | **Ultimate** | *Everything in Pro* + ML pipeline + Elliott Wave + FVG + intelligent exits |
 | **Enterprise** | *Everything in Ultimate* + **LIVE TRADING** + safety monitors + Telegram alerts |
 
-👉 **[Buy on Gumroad](https://YOUR_GUMROAD_LINK)**
+👉 **[Buy on Gumroad](https://algotoolkitt.gumroad.com/)**
 
 ---
 
