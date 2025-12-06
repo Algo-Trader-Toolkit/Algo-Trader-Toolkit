@@ -22,17 +22,9 @@
 
 ## 👤 Who Is This For?
 
-| Audience | Fit |
-|----------|-----|
-| Quant researchers | ✅ |
-| Strategy developers | ✅ |
-| Algorithmic traders (long & short) | ✅ |
-| Crypto, stocks, forex, futures traders | ✅ |
-| Live automation users | ✅ |
-| Data-driven traders | ✅ |
-| High-leverage gamblers | ❌ |
-| Get-rich-quick seekers | ❌ |
-| Signal copiers | ❌ |
+✅ Quant researchers • ✅ Strategy developers • ✅ Algorithmic traders • ✅ Crypto/stocks/forex traders • ✅ Live automation users • ✅ Data-driven traders
+
+❌ High-leverage gamblers • ❌ Get-rich-quick seekers • ❌ Signal copiers
 
 
 ---
