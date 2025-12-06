@@ -26,12 +26,14 @@
 |----------|-----|
 | Quant researchers | ✅ |
 | Strategy developers | ✅ |
-| Crypto spot traders | ✅ |
+| Algorithmic traders (long & short) | ✅ |
+| Crypto, stocks, forex, futures traders | ✅ |
 | Live automation users | ✅ |
 | Data-driven traders | ✅ |
 | High-leverage gamblers | ❌ |
 | Get-rich-quick seekers | ❌ |
 | Signal copiers | ❌ |
+
 
 ---
 
