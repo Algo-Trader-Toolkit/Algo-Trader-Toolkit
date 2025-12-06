@@ -269,22 +269,40 @@ This is a **backtesting engine**, not a collection of profitable trading strateg
 
 ---
 
-## 🔗 Upgrade Your Tier
-
-| Upgrade Path | What You Get |
-|--------------|--------------|
-| **Standard → Pro** | + Pattern recognition & live alerts |
-| **Pro → Ultimate** | + ML, Elliott Wave, FVG & intelligent exits |
-| **Ultimate → Enterprise** | + **LIVE TRADING** with safety monitors |
-
-### Pricing
+## � Pricing
 
 | Tier | Price | Best For |
 |------|-------|----------|
-| Standard | $49 | Learning & strategy development |
-| Pro | $149 | Active traders wanting patterns |
-| Ultimate | $299 | Quants wanting ML & advanced analysis |
-| Enterprise | $749 | Production live trading |
+| **Standard** | $49 | Testing ideas fast and learning realistic backtesting |
+| **Pro** | $149 | Automating technical & pattern-based trading workflows |
+| **Ultimate** | $299 | Quant-level research, ML validation, and multi-factor confirmation |
+| **Enterprise** | $749 | Fully unattended live trading with real-time safety gates |
+
+✅ **All toolkits include:** Lifetime access, commercial use rights, and free version updates.
+
+💡 *Building this from scratch typically takes 120–210 development hours. The toolkit costs less than 0.5% of that engineering effort.*
+
+---
+
+## 🚀 Upgrade Path
+
+```
+Standard  →  Pro  →  Ultimate  →  Enterprise
+    |          |         |            |
+Backtesting  Patterns   ML/FVG    24/7 Live Trading
+```
+
+| Upgrade Path | What You Get |
+|--------------|--------------|
+| **Standard → Pro** | + Pattern recognition + chart patterns + alerts |
+| **Pro → Ultimate** | + ML pipeline + Elliott Wave + FVG + intelligent exits |
+| **Ultimate → Enterprise** | + **LIVE TRADING** + safety monitors + Telegram |
+
+🌟 **Save when upgrading** — upgrading costs less than buying separate tiers.
+
+📩 **Enterprise includes:** Onboarding assistance + priority email support.
+
+🔐 **Licensed distributions include traceable signatures to prevent unauthorized resale.**
 
 *Contact for bundle deals and custom integrations:* **algo.toolkitt@gmail.com**
 
