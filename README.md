@@ -154,7 +154,12 @@ Our dynamic stop-loss system uses **Fibonacci retracement levels** that trail pr
 
 <img src="./screenshots/live_dashboard.png" width="550">
 
-#### 📱 Telegram Notifications
+#### � Signal Detection
+*Real-time BUY/SELL signal detection with multi-component analysis*
+
+<img src="./screenshots/live_buy.png" width="400">
+
+#### �📱 Telegram Notifications
 *Get instant alerts on your phone: signals, trade entries, exits with P&L*
 
 <img src="./screenshots/telegram_signals.jpg" width="320">
