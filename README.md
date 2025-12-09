@@ -14,11 +14,7 @@
 
 ![Algo-Trader Toolkit](./screenshots/hero_banner.png)
 
-## 🎬 Watch Demo
-
-[![Watch Demo Video](https://img.youtube.com/vi/QI0e9b-Jn44/maxresdefault.jpg)](https://youtu.be/QI0e9b-Jn44)
-
-▶️ **[Click to watch the full demo on YouTube](https://youtu.be/QI0e9b-Jn44)**
+▶️ **[Watch Demo Video on YouTube](https://youtu.be/QI0e9b-Jn44)**
 
 ---
 
