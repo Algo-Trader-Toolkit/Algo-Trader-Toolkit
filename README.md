@@ -276,20 +276,28 @@ This is a **backtesting engine**, not a collection of profitable trading strateg
 
 ---
 
-## � Pricing
+## 💎 Pricing
 
-| Tier | Price | Best For |
-|------|-------|----------|
-| **Standard** | $49 | Fast strategy testing with 12+ indicators & Fibonacci levels |
-| **Pro** | $149 | Automating technical & pattern-based trading workflows |
-| **Ultimate** | $299 | Quant-level research, ML validation, and multi-factor confirmation |
-| **Enterprise** | $749 | Fully unattended live trading with real-time safety gates |
+| | Standard | Pro | Ultimate | Enterprise |
+|---|:---:|:---:|:---:|:---:|
+| **Price** | **$49** | **$149** | **$299** | **$749** |
+| Indicators (12+) | ✓ | ✓ | ✓ | ✓ |
+| Realistic Backtesting | ✓ | ✓ | ✓ | ✓ |
+| Equity Analytics | ✓ | ✓ | ✓ | ✓ |
+| Pattern Recognition | ✗ | ✓ | ✓ | ✓ |
+| ML Pipeline | ✗ | ✗ | ✓ | ✓ |
+| Risk Gates | ✗ | ✗ | ✓ | ✓ |
+| Safety Monitor | ✗ | ✗ | ✓ | ✓ |
+| Optimization Tools | ✗ | ✗ | ✓ | ✓ |
+| Live Trading | ✗ | ✗ | ✗ | ✓ |
+| Telegram Alerts | ✗ | ✗ | ✗ | ✓ |
+| Cloud Deployment | ✗ | ✗ | ✗ | ✓ |
 
 ✅ **All toolkits include:** Lifetime access, commercial use rights, and free version updates.
 
-� **One-time purchase — no subscriptions.**
+💎 **One-time purchase — no subscriptions.**
 
-�� *Building this from scratch typically takes 120–210 development hours. The toolkit costs less than 0.5% of that engineering effort.*
+💡 *Building this from scratch typically takes 120–210 development hours. The toolkit costs less than 0.5% of that engineering effort.*
 
 ---
 
