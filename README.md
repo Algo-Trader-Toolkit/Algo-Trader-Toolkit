@@ -22,10 +22,10 @@
 
 | Tier | Price | Get It |
 |------|-------|--------|
-| **Standard** | $49 | [Buy Standard](https://algotoolkitt.gumroad.com/l/Standard) |
-| **Pro** | $149 | [Buy Pro](https://algotoolkitt.gumroad.com/l/Pro) |
-| **Ultimate** | $299 | [Buy Ultimate](https://algotoolkitt.gumroad.com/l/Ultimate) |
-| **Enterprise** | $749 | [Buy Enterprise](https://algotoolkitt.gumroad.com/l/Enterprise) |
+| **Standard** | $49 | [Buy Standard](https://algotoolkit.lemonsqueezy.com/buy/54885c5f-fcb7-4cd3-8287-0692f02dfe1f) |
+| **Pro** | $149 | [Buy Pro](https://algotoolkit.lemonsqueezy.com/buy/893767c5-2359-4cd2-834a-1f3cb1edc441) |
+| **Ultimate** | $299 | [Buy Ultimate](https://algotoolkit.lemonsqueezy.com/buy/4f520aef-c625-424d-bc9b-b9be66d4232b) |
+| **Enterprise** | $749 | [Buy Enterprise](https://algotoolkit.lemonsqueezy.com/buy/117b90e2-5006-49da-a3b1-61ec13858c73) |
 
 ---
 
@@ -329,13 +329,13 @@ Indicators   Patterns   ML/FVG    24/7 Live
 
 *Contact for bundle deals and custom integrations:* **algo.toolkitt@gmail.com**
 
-👉 **[Get the Toolkit on Gumroad](https://algotoolkitt.gumroad.com/)**
+👉 **[Get the Toolkit](https://algotoolkit.lemonsqueezy.com/)**
 
 ---
 
 ## 🧠 Why 99% of Trading Bots Fail
 
-Most "bots" sold on Telegram and Gumroad fail because they lack:
+Most "bots" sold online fail because they lack:
 
 | Missing Component | Our Solution |
 |-------------------|--------------|
@@ -425,7 +425,7 @@ This software is sold under a **single-user commercial license**. See `LICENSE.t
 **Email:** algo.toolkitt@gmail.com
 
 **This is a commercial product.** Source code is not included in this public repository.
-Full source code is delivered upon purchase via Gumroad.
+Full source code is delivered upon purchase via Lemon Squeezy.
 
 ---
 
@@ -435,4 +435,4 @@ Full source code is delivered upon purchase via Gumroad.
 
 *Built with ❤️ for serious traders who demand quant-grade tools.*
 
-👉 **[Get the Toolkit on Gumroad](https://algotoolkitt.gumroad.com/)**
+👉 **[Get the Toolkit](https://algotoolkit.lemonsqueezy.com/)**
